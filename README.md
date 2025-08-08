@@ -8,13 +8,13 @@ This project implements a fingerprint identification system using **coarse index
 ![](assets/Screenshot_1.png)
 
 ## Coarse Indexing files
-![](assets/Screenshot 2.png)
+![](assets/Screenshot_2.png)
 
 ## System Information
-![](assets/Screenshot 4.png)
+![](assets/Screenshot_4.png)
 
 ## Performance Metrics
-![](assets/Screenshot 3.png)
+![](assets/Screenshot_3.png)
 
 ## Minutiae Feature extraction
 ![](assets/result.png)
