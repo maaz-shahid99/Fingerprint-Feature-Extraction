@@ -3,11 +3,22 @@
 This project implements a fingerprint identification system using **coarse indexing** and **minutiae feature extraction**. It is designed for large-scale fingerprint databases, speed improvement over exhaustive search methods.
 
 ---
+
+## Database MongoDB
 ![](assets/Screenshot_1.png)
-![](assets/Screenshot_2.png)
-![](assets/Screenshot_3.png)
-![](assets/Screenshot_4.png)
+
+## Coarse Indexing files
+![](assets/Screenshot 2.png)
+
+## System Information
+![](assets/Screenshot 4.png)
+
+## Performance Metrics
+![](assets/Screenshot 3.png)
+
+## Minutiae Feature extraction
 ![](assets/result.png)
+
 ## Features
 
 - **Minutiae Extraction**  
@@ -15,7 +26,6 @@ This project implements a fingerprint identification system using **coarse index
 
 - **Angle Computation**  
   Computes orientation of each minutia for robust matching.
-
 - **Spurious Minutiae Removal**  
   Eliminates closely spaced or duplicate minutiae points to improve accuracy.
 
