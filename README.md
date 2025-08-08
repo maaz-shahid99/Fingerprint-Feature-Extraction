@@ -3,7 +3,11 @@
 This project implements a fingerprint identification system using **coarse indexing** and **minutiae feature extraction**. It is designed for large-scale fingerprint databases, speed improvement over exhaustive search methods.
 
 ---
-
+![](assets/Screenshot1.png)
+![](assets/Screenshot2.png)
+![](assets/Screenshot3.png)
+![](assets/Screenshot4.png)
+![](assets/result.png)
 ## Features
 
 - **Minutiae Extraction**  
