@@ -1,0 +1,9 @@
+DB1_A
+.venv
+env
+.env
+.venv/
+env/
+.env/
+enhanced/
+jpg_images/
