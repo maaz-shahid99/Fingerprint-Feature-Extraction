@@ -128,8 +128,8 @@ def process_fingerprint(image_path):
         image_array = np.array(img)
         
         # Threshold image to create binary-like representation for edge detection
-        threshold = 128
-        image_array = (image_array > threshold).astype(np.uint8) * 255
+        # threshold = 128
+        # image_array = (image_array > threshold).astype(np.uint8) * 255
         
         print("Original image loaded and preprocessed")
         print(f"Image dimensions: {image_array.shape}")
