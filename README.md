@@ -73,12 +73,15 @@ python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 ```
 
+## Pre-Requirements
+
+MongoDB needs to be setup and configured to run on local host. 
+
 ### 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
-
 ---
 
 ## Usage
@@ -95,7 +98,7 @@ features_term, features_bif = extract_minutiae_features(image, showResult=True)
 
 ### 2. Run Full Indexing & Matching (via Notebook)
 
-Open `main.ipynb` in Jupyter and follow the steps:
+Open `app.ipynb` in Jupyter and follow the steps:
 - Enhance fingerprint
 - Extract features
 - Build index
